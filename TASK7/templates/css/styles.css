@@ -1,0 +1,21 @@
+body{
+	background:black;
+	color: white;
+	text-align:center;
+}
+h1{
+color:red;
+
+}
+div{
+text-align:center;
+}
+li{
+list-style-position: inside;
+text-align:center;*/
+}
+
+a{
+text-decoration:none;
+color: red;
+}
